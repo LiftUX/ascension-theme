@@ -2632,6 +2632,15 @@ body.no-max-width .main-navigation {
   font-size: 20px;
   color: #194F6E; }
 
+.footer-widget input[type="text"],
+.footer-widget input[type="email"],
+.footer-widget input[type="url"],
+.footer-widget input[type="password"],
+.footer-widget input[type="search"],
+.footer-widget input[type="number"],
+.footer-widget textarea {
+  background-color: #ececec; }
+
 /* Author Widget */
 .widget_author .widget-title {
   margin-bottom: 1.25em;
